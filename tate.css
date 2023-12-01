@@ -1,0 +1,105 @@
+body {
+ background-size: 100%;
+}
+.topnav {
+    background-color: #CFD0CB;
+    overflow: hidden;
+}
+.topnav a {
+  float: left;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+.topnav a:hover {
+  background-color: #ddd;
+  color: black;
+}
+.topnav a.active {
+  background-color: #04AA6D;
+  color: white;
+}
+.column {
+    float: left;
+    width: 50%;
+    
+    }
+
+    .row:after {
+    content: "";
+    display: table;
+    clear: both;
+    }
+p {
+  font-size: 25px;
+}
+.realname {
+  color: #2d302f;
+}
+.subcolumns {
+  float: left;
+    width: 50%;
+    
+}
+.name {
+    font-size: 50px;
+    font-weight: 900;
+    color: #b5b5b3;
+}
+.subcolumn1 {
+  color: #2d302f;
+  margin-left: 10px;
+  margin-right: 10px;
+}
+.subcolumn2 {
+  color: floralwhite;
+}
+.card {
+    margin-top: 155px;
+    width: 500px;
+    height: 317.5px;
+    border-radius: 30px;
+    background: #CFD0CB;
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 30px 50px -12px inset, rgba(0, 0, 0, 0.3) 0px 18px 26px -18px inset;
+    line-height: 20px;
+}
+h1 {
+    font-size: 50px;
+    font-weight: 900;
+    color: #b5b5b3;
+    margin-left: 24px;
+}
+.bio {
+    color: #2d302f;
+}
+
+
+    .films {
+      width: 400px;
+      height: 250px;
+      
+    }
+    h2 {
+      color: #6fa186;
+      font-size: 35px;
+    }
+    .column1 {
+    float: left;
+    width: 33.3%;
+    margin-left: 24px;
+    
+    }
+
+    .row1:after {
+    content: "";
+    display: table;
+    clear: both;
+    }
+.gold {
+    color: #b5b5b3;
+}
+    a {
+      text-decoration: none;
+    }
